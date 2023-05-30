@@ -1,0 +1,55 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-21 18:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: gpt_chatbots/app.py:67
+msgid "Send"
+msgstr ""
+
+#: gpt_chatbots/app.py:68
+msgid "Clear"
+msgstr ""
+
+#: gpt_chatbots/app.py:71
+msgid "Save"
+msgstr ""
+
+#: gpt_chatbots/app.py:134
+msgid "To hear the voice please Play"
+msgstr ""
+
+#: gpt_chatbots/app.py:143
+msgid "Select Model"
+msgstr ""
+
+#: gpt_chatbots/app.py:144
+msgid "Select temperature"
+msgstr ""
+
+#: gpt_chatbots/app.py:145
+msgid "Edit Role"
+msgstr ""
+
+#: gpt_chatbots/app.py:145
+msgid "You are a kind assistant"
+msgstr ""
+
+#: gpt_chatbots/app.py:161
+msgid "Chatbot"
+msgstr ""
+

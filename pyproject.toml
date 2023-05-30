@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "gpt-chatbots"
+version = "0.1.0"
+description = ""
+authors = ["mario.gomez <mario.gomez@uniphore.com>"]
+readme = "README.md"
+packages = [{include = "gpt_chatbots"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^0.27.7"
+streamlit = "^1.22.0"
+streamlit-option-menu = "^0.3.4"
+streamlit-chat = "^0.0.2.2"
+gtts = "^2.3.2"
+python-dotenv = "^1.0.0"
+babel = "^2.12.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
